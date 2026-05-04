@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي قلبي مشتاق لعينيكِ
+> في الليل الطويل روحي تناديكِ
+> نار الشوق في دمي تشعلني
+> ولمسة يدكِ دوماً تسحرني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
