@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | W3dek Mosh Hyetkser |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/w3dek-mosh-hyetkser/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي قلبي مشتاق لعينيكِ
+> في الليل الطويل روحي تناديكِ
+> نار الشوق في دمي تشعلني
+> ولمسة يدكِ دوماً تسحرني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
