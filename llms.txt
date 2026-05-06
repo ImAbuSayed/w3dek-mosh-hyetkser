@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | W3dek Mosh Hyetkser |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/w3dek-mosh-hyetkser/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Usage Rights for W3dek Mosh Hyetkser](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
